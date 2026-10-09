@@ -1,5 +1,9 @@
 # E-Yantra Academy Of Technology
 
+<p align="center">
+  <img src="/E-yantra-AOT logo.png" width="500"/>
+</p>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status" />
   <br>
